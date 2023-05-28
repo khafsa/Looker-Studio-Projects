@@ -4,10 +4,10 @@
 
 Utilized Looker Studio to create interactive dashboard and report for data visualization and analytics. 
 
-Dashboard for data set of citizen portal complaints in KP till 2022 was created using Google Looker Studio. Report for data set is also created to visualize the different aspects of data of different departments. Data set is avialable on http://opendata.kp.gov.pk/ and can be downloaded in .xlsx format.
+Dashboard for data set of citizen portal complaints in KP till 2022 was created using Google Looker Studio. Report for data set is also created to visualize the different aspects of data of different departments. Data set is avialable on http://opendata.kp.gov.pk/ and can be downloaded as provided in .xlsx format in the project repository.
 
 #### Technologies Used 
-Google Looker Studio, Excel sheet.
+Google Looker Studio with Excel sheet data set.
 
 To view the report of the project, download "port-Pakistan-Citizen-Portal-Complaints-in-KP-till-2022.pdf" file add in this repository
 
